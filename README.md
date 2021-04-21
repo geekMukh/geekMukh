@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hi, I'm Durgesh Mukherjee
 
-<!--
-**geekMukh/geekMukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm
 
-Here are some ideas to get you started:
+- a software engineer,
+- a geek,
+- an Otaku,
+- a noob gamer,
+- an army brat,
+- a soul in quantum superposition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Area of expertise includes :
+
+### JavaScript
+
+- React js
+- Redux
+- Node js
+- jQuery
+
+### PHP
+
+- Laravel
+- CI
+
+### Database
+
+- MySQL
+- MongoDB
+
+### Version Control
+
+- Git
+
+## Find me around the web :
+
+- <a href="https://www.facebook.com/geek.mukh">Facebook</a>
+- <a href="https://www.linkedin.com/in/durgesh-mukherjee-075971a6/"> LinkedIn</a>
+- <a href="https://t.me/geekmukh"> Telegram </a>
