@@ -38,4 +38,5 @@
 - <a href="https://www.facebook.com/geek.mukh">Facebook</a>
 - <a href="https://www.linkedin.com/in/durgesh-mukherjee-075971a6/"> LinkedIn</a>
 - <a href="https://twitter.com/geekMukh"> Twitter</a>
+- <a href="https://www.instagram.com/geek_mukh/">Instagram</a>
 - <a href="https://t.me/geekmukh"> Telegram </a>
