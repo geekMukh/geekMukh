@@ -4,7 +4,7 @@
 
 - a software engineer,
 - a geek,
-- an Otaku,
+- an otaku,
 - a noob gamer,
 - an army brat,
 - a soul in quantum superposition.
@@ -16,6 +16,7 @@
 - React js
 - Redux
 - Node js
+- Express js
 - jQuery
 
 ### PHP
@@ -36,4 +37,5 @@
 
 - <a href="https://www.facebook.com/geek.mukh">Facebook</a>
 - <a href="https://www.linkedin.com/in/durgesh-mukherjee-075971a6/"> LinkedIn</a>
+- <a href="https://twitter.com/geekMukh"> Twitter</a>
 - <a href="https://t.me/geekmukh"> Telegram </a>
